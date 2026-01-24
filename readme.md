@@ -18,3 +18,4 @@
 3: git add: stages all of the changes to get ready for a commit
 4: git commit: saves the changes of a file
 5: git push: upload a local repo to a remote repo
+6: touch: creates an empty file
