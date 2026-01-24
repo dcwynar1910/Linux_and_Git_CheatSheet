@@ -19,3 +19,4 @@
 4: git commit: saves the changes of a file
 5: git push: upload a local repo to a remote repo
 6: touch: creates an empty file
+7: git clone: creates a local copy of an existing repo
