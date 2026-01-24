@@ -11,3 +11,6 @@
 8: rm: removes a file
 9: rmdir: removes a directory
 10: chmod: used to change the security permissions on files
+
+#GIT
+1: git status: show the status of a repo
