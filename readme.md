@@ -16,3 +16,4 @@
 1: git status: show the status of a repo
 2: git init: creates a new, empty Git repository
 3: git add: stages all of the changes to get ready for a commit
+4: git commit: saves the changes of a file
