@@ -14,3 +14,4 @@
 
 #GIT
 1: git status: show the status of a repo
+2: git init: creates a new, empty Git repository
