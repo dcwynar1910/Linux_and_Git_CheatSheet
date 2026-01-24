@@ -9,3 +9,4 @@
 6: pwd: see where we are currently working in the file path
 7: cp: copy a file cp reptiles/cobra snakes
 8: rm: removes a file
+9: rmdir: removes a directory
