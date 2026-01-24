@@ -10,3 +10,4 @@
 7: cp: copy a file cp reptiles/cobra snakes
 8: rm: removes a file
 9: rmdir: removes a directory
+10: chmod: used to change the security permissions on files
